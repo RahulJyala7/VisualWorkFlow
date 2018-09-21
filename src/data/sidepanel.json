@@ -1,0 +1,42 @@
+{
+    "data": [{
+        "name": "flow",
+        "data": [{
+            "name": "square",
+            "type": null,
+            "id": null,
+            "linksTo": [],
+            "position": {
+                "x": null,
+                "y": null
+            }
+        }, {
+            "name": "circle",
+            "type": null,
+            "id": null,
+            "linksTo": [],
+            "position": {
+                "x": null,
+                "y": null
+            }
+        },{
+            "name": "arrow",
+            "type": null,
+            "id": null,
+            "linksTo": [],
+            "position": {
+                "x": null,
+                "y": null
+            }
+        }, {
+            "name": "decision",
+            "type": null,
+            "id": null,
+            "linksTo": [],
+            "position": {
+                "x": null,
+                "y": null
+            }
+        }]
+    }]
+}
